@@ -9,6 +9,7 @@
 
 ## Screenshot
 
-![alt text]url(https://github.com/kemaloncell/Weather-Forecast/blob/main/img/Screenshot_1.png)
+![alt text](https://github.com/kemaloncell/Weather-Forecast/blob/main/img/Screenshot_1.png)
 
-![alt text]url(https://github.com/kemaloncell/Weather-Forecast/blob/main/img/Screenshot_2.png)
+
+![alt text](https://github.com/kemaloncell/Weather-Forecast/blob/main/img/Screenshot_2.png)
